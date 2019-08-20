@@ -2,19 +2,19 @@
 
 /**
  *
- * @link              http://athemes.com
+ * @link              https://athemes.com
  * @since             1.0
  * @package           Athemes_Toolbox
  *
  * @wordpress-plugin
- * Plugin Name:       Athemes Toolbox
- * Plugin URI:        http://athemes.com/plugins/athemes-toolbox
+ * Plugin Name:       aThemes Toolbox
  * Description:       Registers custom post types and custom fields for the aThemes themes
- * Version:           1.05
+ * Version:           1.06
+ * Requires at least: 4.0
  * Author:            aThemes
- * Author URI:        http://athemes.com
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * Author URI:        https://athemes.com
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Text Domain:       athemes-toolbox
  * Domain Path:       /languages
  */
